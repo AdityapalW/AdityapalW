@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Adityapal Waraich, I'm secound year Engineering Student at Simon Fraser University.
 <!--
 **AdityapalW/AdityapalW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
