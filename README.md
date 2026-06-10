@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Adityapal Waraich, I'm third year Engineering Student at Simon Fraser University.
+My name is Adityapal Waraich, I'm fourth year Engineering Student at Simon Fraser University.
 <!-- https://gprm.itsvg.in/  --> 
 # 💻 Tech Stack:
 ### Programming Languages
