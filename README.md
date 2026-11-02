@@ -5,7 +5,7 @@
 **4th-year Engineering @ Simon Fraser University** · Vancouver, BC 🇨🇦
 
 <a href="https://adityapalw.github.io"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/adityapal-waraich/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=AdityapalW&style=for-the-badge&color=58A6FF&label=Profile+views" />
 
 </div>
