@@ -1,91 +1,85 @@
-### Hi there 👋
-My name is Adityapal Waraich, I'm fourth year Engineering Student at Simon Fraser University.
-<!-- https://gprm.itsvg.in/  --> 
-# 💻 Tech Stack:
-### Programming Languages
+<div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge\&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Adityapal+Waraich+%F0%9F%91%8B;AI+%2F+ML+%26+Data+Engineering;Building+LLM+apps%2C+pipelines+%26+embedded+systems" alt="Typing intro" />
 
-### Web Development
+**4th-year Engineering @ Simon Fraser University** · Vancouver, BC 🇨🇦
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<a href="https://adityapalw.github.io"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=AdityapalW&style=for-the-badge&color=58A6FF&label=Profile+views" />
 
-### Data Engineering & Analytics
-
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge\&logo=delta\&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt\&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-
-### Databases & SQL
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-
-### AI, ML & Python Libraries
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=matplotlib\&logoColor=black)
-
-### Engineering & Embedded Systems
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-1E4D8C?style=for-the-badge\&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-00599C?style=for-the-badge\&logoColor=white)
-![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge\&logo=intel\&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge\&logo=unity\&logoColor=white)
-![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-00A1E0?style=for-the-badge\&logo=autodesk\&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge\&logo=autodesk\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge\&logo=bitbucket\&logoColor=white)
-
-### Design & Creative Tools
-
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge\&logo=adobe\&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityapalW&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityapalW&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityapalW&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdityapalW&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**AdityapalW/AdityapalW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About me
 
-Here are some ideas to get you started:
+I'm an engineering student who likes building things end to end, from **training models** and **shipping LLM-powered tools** to **data pipelines** and **firmware on real hardware**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Working on:** a volatility-scaled momentum trading strategy and AI tooling for everyday workflows
+- 🌱 **Learning:** LLM agents & RAG, MLOps, cloud data platforms (Databricks / Snowflake)
+- 🎯 **Open to:** co-op, internship & new-grad roles in **AI/ML, data and software engineering**
+- ⚡ **Fun fact:** I've built everything from a C++ ray tracer to a chest X-ray disease classifier
+
+---
+
+### 🛠️ Tech stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,cs,swift,matlab&perline=8" />
+
+**AI / ML & LLMs**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=8" />
+<br/>
+<img src="https://img.shields.io/badge/LLM_APIs-191919?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Agents_%26_MCP-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+**Data engineering**
+<br/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+
+**Backend, databases & cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,postgres,mysql,sqlite,supabase,gcp,docker,githubactions,git,linux&perline=12" />
+
+**Embedded & hardware**
+<br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,unity&perline=8" />
+<img src="https://img.shields.io/badge/VHDL_%2F_FPGA-1E4D8C?style=flat-square" />
+<img src="https://img.shields.io/badge/Quartus-0071C5?style=flat-square&logo=intel&logoColor=white" />
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🩻 [**Chest X-ray Disease Detection**](https://github.com/AdityapalW/Machine-Learning-Chest-X-ray-Disease-Detection) | CNN that predicts thoracic diseases (pneumonia, cardiomegaly…) from NIH chest X-rays | PyTorch · Jupyter |
+| 📈 [**Volatility-Scaled Momentum**](https://github.com/AdityapalW/volatility-scaled-momentum) | Research pipeline testing whether volatility-scaled sizing reduces momentum crashes (backtest in progress) | Python · Pandas |
+| 📝 [**AI Text Summarizer**](https://github.com/AdityapalW/AI-Powered-Text-Summarization-Tool) | Summarizes long text with transformer models | Python · Hugging Face |
+| 🧪 [**Web Automation Testing Framework**](https://github.com/AdityapalW/Enterprise-Web-Automation-Testing-Framework) | Selenium + PyTest regression suite for a simulated insurance portal, with SQL backend checks and CI | Python · Selenium · Flask |
+| 🎮 [**C++ Ray-Casting Renderer**](https://github.com/AdityapalW/CPP-Ray-Casting-Renderer) | Ray–sphere intersection renderer written from scratch, outputs PPM images | C++ |
+| 💬 [**iOS Chat App**](https://github.com/AdityapalW/IOS-Chat-App) | Real-time messaging app for iPhone | Swift |
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+
+
+<img src="https://streak-stats.demolab.com?user=AdityapalW&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+</div>
