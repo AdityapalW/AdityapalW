@@ -16,8 +16,8 @@
 
 I'm an engineering student who likes building things end to end, from **training models** and **shipping LLM-powered tools** to **data pipelines** and **firmware on real hardware**.
 
-- 🔭 **Working on:** a volatility-scaled momentum trading strategy and AI tooling for everyday workflows
-- 🌱 **Learning:** LLM agents & RAG, MLOps, cloud data platforms (Databricks / Snowflake)
+- 🔭 **Working on:** a relational database from scratch in Go (minidb) and a volatility-scaled momentum trading strategy
+- 🌱 **Learning:** database internals (storage engines, B+trees, WAL), LLM agents & RAG, cloud data platforms (Databricks / Snowflake)
 - 🎯 **Open to:** co-op, internship & new-grad roles in **AI/ML, data and software engineering**
 - ⚡ **Fun fact:** I've built everything from a C++ ray tracer to a chest X-ray disease classifier
 
@@ -27,7 +27,7 @@ I'm an engineering student who likes building things end to end, from **training
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,cs,swift,matlab&perline=8" />
+<img src="https://skillicons.dev/icons?i=py,go,ts,js,cpp,c,cs,swift,matlab&perline=9" />
 
 **AI / ML & LLMs**
 <br/>
@@ -67,11 +67,11 @@ I'm an engineering student who likes building things end to end, from **training
 | Project | What it does | Stack |
 |---|---|---|
 | 🩻 [**Chest X-ray Disease Detection**](https://github.com/AdityapalW/Machine-Learning-Chest-X-ray-Disease-Detection) | CNN that predicts thoracic diseases (pneumonia, cardiomegaly…) from NIH chest X-rays | PyTorch · Jupyter |
+| 🗄️ [**minidb**](https://github.com/AdityapalW/minidb) | Relational database written from scratch: paged storage, buffer pool with LRU eviction and a B+tree index; write-ahead log and SQL parser/planner in progress | Go · GitHub Actions |
 | 📈 [**Volatility-Scaled Momentum**](https://github.com/AdityapalW/volatility-scaled-momentum) | Research pipeline testing whether volatility-scaled sizing reduces momentum crashes (backtest in progress) | Python · Pandas |
 | 📝 [**AI Text Summarizer**](https://github.com/AdityapalW/AI-Powered-Text-Summarization-Tool) | Summarizes long text with transformer models | Python · Hugging Face |
 | 🧪 [**Web Automation Testing Framework**](https://github.com/AdityapalW/Enterprise-Web-Automation-Testing-Framework) | Selenium + PyTest regression suite for a simulated insurance portal, with SQL backend checks and CI | Python · Selenium · Flask |
 | 🎮 [**C++ Ray-Casting Renderer**](https://github.com/AdityapalW/CPP-Ray-Casting-Renderer) | Ray–sphere intersection renderer written from scratch, outputs PPM images | C++ |
-| 💬 [**iOS Chat App**](https://github.com/AdityapalW/IOS-Chat-App) | Real-time messaging app for iPhone | Swift |
 
 ---
 
