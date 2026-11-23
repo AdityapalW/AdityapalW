@@ -16,8 +16,8 @@
 
 I'm an engineering student who likes building things end to end, from **training models** and **shipping LLM-powered tools** to **data pipelines** and **firmware on real hardware**.
 
-- 🔭 **Working on:** a relational database from scratch in Go (minidb), a macOS desktop assistant on a local LLM (PiePet), a multi-agent paper-trading system, and a code-rendered short-video pipeline in three.js
-- 🌱 **Learning:** database internals (query execution, WAL), multi-agent LLM systems, native macOS apps (SwiftUI / AppKit), 3D rendering with three.js
+- 🔭 **Working on:** a code-rendered short-film pipeline (three.js shorts, a 2D animated short, Roblox Studio and Blender staging), a multi-agent paper-trading system, and a futures-trading simulator game in React with a teammate
+- 🌱 **Learning:** 3D rendering and animation (three.js, Blender), audio mixing with FFmpeg, multi-agent LLM systems, order-book and matching-engine simulation, database internals (query execution, WAL)
 - 🎯 **Open to:** co-op, internship & new-grad roles in **AI/ML, data and software engineering**
 - ⚡ **Fun fact:** I've built everything from a C++ ray tracer to a chest X-ray disease classifier
 
@@ -53,9 +53,10 @@ I'm an engineering student who likes building things end to end, from **training
 
 **Backend, databases & cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,threejs,postgres,mysql,sqlite,supabase,gcp,aws,docker,githubactions,playwright,git,linux&perline=15" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,vite,tailwind,threejs,blender,postgres,mysql,sqlite,supabase,gcp,aws,docker,githubactions,playwright,vitest,git,linux&perline=10" />
 <br/>
 <img src="https://img.shields.io/badge/SwiftUI_%2F_AppKit-F05138?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
 
 **Embedded & hardware**
 <br/>
@@ -72,11 +73,11 @@ I'm an engineering student who likes building things end to end, from **training
 | 🩻 [**Chest X-ray Disease Detection**](https://github.com/AdityapalW/Machine-Learning-Chest-X-ray-Disease-Detection) | CNN that predicts thoracic diseases (pneumonia, cardiomegaly…) from NIH chest X-rays | PyTorch · Jupyter |
 | 🗄️ [**minidb**](https://github.com/AdityapalW/minidb) | Relational database written from scratch: paged storage, buffer pool with LRU eviction, a B+tree index, a catalog, a SQL lexer/parser and an executor that runs statements with table scans; write-ahead log and query planner in progress | Go · GitHub Actions |
 | 🤖 **Reflexion Coding Agent** | Coding agent on a local LLM that writes code, runs it in a sandbox and learns from its own failures, evaluated on HumanEval (early, in progress) | Python · Ollama · 🔒 Private |
-| ☁️ **CloudOps AI** | Read-only AI assistant for investigating GCP infrastructure: fleet triage, metrics, revision diffs, error timelines and SLO checks, with offline demos | Python · Google ADK · FastAPI · GCP · 🔒 Private |
+| ☁️ [**CloudOps AI**](https://github.com/AdityapalW/cloudops-ai) | Read-only AI assistant for investigating GCP infrastructure: fleet triage, metrics, revision diffs, error timelines and SLO checks, with offline demos | Python · Google ADK · FastAPI · GCP |
 | 📈 [**Volatility-Scaled Momentum**](https://github.com/AdityapalW/volatility-scaled-momentum) | Research pipeline testing whether volatility-scaled sizing reduces momentum crashes (data pipeline and baseline backtest working; volatility scaling in progress) | Python · Pandas |
 | [**PiePet**](https://github.com/AdityapalW/pet-pie) | macOS desktop pet that chats and talks through a local LLM, with voice input, tasks and reminders, a focus timer, notes, goals and an editor extension (hackathon project, built with a teammate) | Swift · SwiftUI · AppKit · Ollama |
 | **Trading Desk** | Multi-agent trading system: a plain-code core handles market data, risk checks and paper execution, while LLM agents propose and review trades; includes a strategy backtester and a local dashboard (paper trading, in progress) | Python · FastAPI · Pandas · LLM agents · 🔒 Private |
-| **Code-Rendered Shorts Kit** | Pipeline that renders vertical animated shorts entirely in code: three.js scenes and characters, ElevenLabs narration whose word timings drive camera cuts and captions, frame-by-frame rendering in headless Chromium | JavaScript · three.js · Playwright · Python · 🔒 Private |
+| **Code-Rendered Shorts Kit** | Pipeline that renders vertical animated shorts entirely in code: three.js scenes and characters, ElevenLabs narration whose word timings drive camera cuts and captions, frame-by-frame rendering in headless Chromium; also used for a four-minute 2D animated short with an original score, and packaged as a skill that stages the same scenes in Roblox Studio or Blender | JavaScript · three.js · Playwright · Python · FFmpeg · Blender · 🔒 Private |
 
 ---
 
